@@ -1,0 +1,3 @@
+[submodule "ppsspp"]
+	path = ppsspp
+	url = git@github.com:hrydgard/ppsspp.git
